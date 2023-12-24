@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1motorcontroll", "1motorcontroll\1motorcontroll.vcxproj", "{3E39B474-C730-4F76-9C62-796170A3583F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|INtime = Debug|INtime
+		Release|INtime = Release|INtime
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E39B474-C730-4F76-9C62-796170A3583F}.Debug|INtime.ActiveCfg = Debug|INtime
+		{3E39B474-C730-4F76-9C62-796170A3583F}.Debug|INtime.Build.0 = Debug|INtime
+		{3E39B474-C730-4F76-9C62-796170A3583F}.Release|INtime.ActiveCfg = Release|INtime
+		{3E39B474-C730-4F76-9C62-796170A3583F}.Release|INtime.Build.0 = Release|INtime
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42685FEE-FC53-4B19-9A8B-158CACD51F6E}
+	EndGlobalSection
+EndGlobal
